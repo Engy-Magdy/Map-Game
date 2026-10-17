@@ -1,22 +1,22 @@
-country	x	y
-Egypt	90	79
-Libya	-4	75
-Tunisia	-76	147
-Algeria	-125	94
-Mauritania	-238	13
-Somalia	252	-85
-Sudan	107	-12
-Saudi Arabia	214	58
-Qatar	238	104
-Bahrain	265	72
-Djibouti	207	-60
-Yemen	251	-24
-Oman	321	29
-The United Arab Emirates	299	48
-Kuwait	238	104
-Iraq	203	135
-Syria	159	161
-Jordan	145	116
-Palestine	134	119
-Lebanon	140	148
-Morocco	-231	92
+country,x,y
+Egypt,90,79
+Libya,-4,75
+Tunisia,-76,147
+Algeria,-125,94
+Mauritania,-238,13
+Somalia,252,-85
+Sudan,107,-12
+Saudi Arabia,214,58
+Qatar,238,104
+Bahrain,265,72
+Djibouti,207,-60
+Yemen,251,-24
+Oman,321,9
+The United Arab Emirates,299,48
+Kuwait,238,104
+Iraq,203,135
+Syria,159,161
+Jordan,145,116
+Palestine,134,119
+Lebanon,140,148
+Morocco,-231,92
